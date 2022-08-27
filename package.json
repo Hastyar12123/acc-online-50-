@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
-  "main": "hastyar.js",
+  "main": "Hastyar.js",
   "scripts": {
-    "start": "node hastyar.js"
+    "start": "node Hastyar.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
